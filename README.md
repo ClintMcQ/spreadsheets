@@ -8,3 +8,7 @@
 
 <b>Discount_Cash_Flow_Sharpe_CCA</b>
 <p> Calculates the fair value of a stock based on a series of metrics and forecasting. Also calculates sharpe ratio and a company comparison analysis.</p>
+
+# Donations
+If my projects help, feel free to give me a cup of coffee :)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=TP4R5WHRDE33U&no_recurring=0&currency_code=USD)
